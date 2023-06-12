@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PythonAdvanedProjects/.idea/PythonAdvanedProjects.iml" filepath="$PROJECT_DIR$/PythonAdvanedProjects/.idea/PythonAdvanedProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PythonFundamentalsProjects/.idea/PythonFundamentalsProjects.iml" filepath="$PROJECT_DIR$/PythonFundamentalsProjects/.idea/PythonFundamentalsProjects.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonAdvanced.iml" filepath="$PROJECT_DIR$/.idea/PythonAdvanced.iml" />
->>>>>>> origin/main
     </modules>
   </component>
 </project>

@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad34ff66-7d72-4e46-8cbd-043256557cc4" name="Changes" comment="Advanced Project">
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_exercise/even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_exercise/keyword_arguments_length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_exercise/negative_vs_positive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab/cheese_showcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab/operate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab/person_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab/recursive_power.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonAdvanedProjects/.idea/PythonAdvanedProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanedProjects/.idea/PythonAdvanedProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab/multiplication_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab/multiplication_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_exercise/concatenate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_exercise/numbers_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_exercise/numbers_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -56,11 +77,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PythonFundamentalsProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PythonAdvanedProjects" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.even_or_odd">
+  <component name="RunManager" selected="Python.numbers_filter">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numbers_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAdvanedProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_lab/operate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/functions_advanced_exercise/numbers_filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numbers_filter" />
         <item itemvalue="Python.even_or_odd" />
         <item itemvalue="Python.keyword_arguments_length" />
         <item itemvalue="Python.negative_vs_positive" />
         <item itemvalue="Python.recursive_power" />
-        <item itemvalue="Python.operate" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686430017738</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Advanced Project">
+      <created>1686569517489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686569517489</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Advanced Project">
+      <created>1686569805575</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686569805576</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +390,19 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
