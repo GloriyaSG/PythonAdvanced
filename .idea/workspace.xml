@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad34ff66-7d72-4e46-8cbd-043256557cc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/scheduling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _27_june_2020/bombs_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _27_june_2020/list_manipulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _27_june_2020/snake_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020/minesweeper_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020/number_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020/taxi_express.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/checkmate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/list_pureness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam _16_december_2020/game_of_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam _16_december_2020/matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAdvanedProjects/my_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/scheduling.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/scheduling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonAdvanedProjects/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanedProjects/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +84,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.number_search">
+  <component name="RunManager" selected="Python.matching">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="checkmate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAdvanedProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +114,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _27_june_2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _27_june_2020/list_manipulator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/checkmate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_pureness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAdvanedProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/list_pureness.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="minesweeper_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAdvanedProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,32 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam _16_december_2020" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020/minesweeper_generator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="number_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonAdvanedProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020/number_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam _16_december_2020/matching.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="taxi_express" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scheduling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAdvanedProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020/taxi_express.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/scheduling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.number_search" />
+        <item itemvalue="Python.matching" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.minesweeper_generator" />
-        <item itemvalue="Python.taxi_express" />
-        <item itemvalue="Python.list_manipulator" />
+        <item itemvalue="Python.list_pureness" />
+        <item itemvalue="Python.checkmate" />
+        <item itemvalue="Python.scheduling" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686602592738</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added more solutions.">
+      <created>1686829835036</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686829835037</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +435,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Advanced Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advanced Project" />
+    <MESSAGE value="Added more solutions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more solutions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -483,6 +490,35 @@
           <url>file://$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam_19_august_2020/number_search.py</url>
           <line>10</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/scheduling.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/scheduling.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/checkmate.py</url>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/checkmate.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_exam _24_october-2020/list_pureness.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanedProjects/EXAM_prep/python_advanced_retake_exam _16_december_2020/matching.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
